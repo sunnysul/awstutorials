@@ -1,9 +1,0 @@
-sudo apt-get update
-sudo apt-get upgrade
-
-sudo apt-get install python-certbot-apache
-sudo apt-get install certbot
-
-sudo certbot --apache
-
-
