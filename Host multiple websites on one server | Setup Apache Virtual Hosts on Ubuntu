@@ -19,4 +19,4 @@ sudo a2ensite Domain_name.conf
 sudo service apache2 restart
 
 #optional
-sudo a2disite 000-default.conf 
+sudo a2dissite 000-default.conf 
